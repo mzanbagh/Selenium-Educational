@@ -54,5 +54,5 @@ driver.close()
 ```
 This is just a basic example, and you can add additional features and error handling as needed for your specific use case.
 
-<image src ="ScreenShots/A.png" width="650">
+<image src ="ScreenShots/A.png" width="800">
 
